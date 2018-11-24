@@ -28,4 +28,4 @@ def model_fn(features, labels, mode, params):
             return tf.estimator.EstimatorSpec(
                 mode, loss=loss, train_op=train_op)
         else:
-            raise NotADirectoryError()
+            raise NotImplementedError()
