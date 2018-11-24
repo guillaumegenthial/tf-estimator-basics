@@ -1,6 +1,10 @@
 # Tensorflow Estimator Basics
 
-Covers training, predict, export and serving on a dummy example.
+Covers training, predict, export and serving of `tf.estimator` on a dummy example. 
+
+[Read the blog post](https://guillaumegenthial.github.io/serving-tensorflow-estimator.html)
+
+
 
 
 ## Quickstart
