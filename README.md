@@ -1,6 +1,6 @@
 # Tensorflow Estimator Basics
 
-Covers train, predict, export and reload of a `tf.estimator` for inference on a dummy example. 
+Train, predict, export and reload a `tf.estimator` for inference on a dummy example. 
 
 [Read the blog post](https://guillaumegenthial.github.io/serving-tensorflow-estimator.html)
 
